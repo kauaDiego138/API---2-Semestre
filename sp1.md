@@ -56,9 +56,9 @@ Produção funcional: o sistema deve entregar a função solicitada pelo cliente
 ---
 
 ##  Métricas de Validação
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
+- Todos os membros da equipe aceitaram e aprovaram.
+
+A equipe tem um tempo de resposta de 1 dia para conseguir ajeitar tudo que o cliente pede, e produz o que sua função pede no mesmo tempo de trabalho.
 
 ---
 
