@@ -1,4 +1,4 @@
-# 📌 MVP - [Nome do Projeto]
+# 📌 MVP - [LOGISAFE]
 
 ## 🎯 Objetivo do MVP
 > Descrever de forma clara qual é o propósito do MVP:  
@@ -17,24 +17,27 @@
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
+- ** Analistas: breve descrição, necessidades e dores atendidas  
+- ** Organizadores logisticos:breve descrição, necessidades e dores atendidas  
 
 ---
 
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
-| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
+| S1 | Como gestor logístico, quero visualizar as principais métricas de transporte em tempo real para otimizar a tomada de decisão        | Alta       | 5 pontos   |
+| S2 | Como analista de transporte, quero identificar gargalos na operação logística para reduzir custos e atrasos        | Alta     | 3 pontos   |
+| S3 | Como planejador logístico, quero consultar as rotas mais eficientes para reduzir o tempo de entrega | Média | 4 pontos |
+| S4 | Como pesquisador, quero acompanhar a evolução histórica dos indicadores logísticos para realizar análises comparativas | Alta | 3 pontos | 
+| S5 | Como fiscalizador, quero identificar as principais inconformidades no transporte para propor melhorias | Alta | 4 pontos |
 
 ---
 
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+| 01     | [Coleta e análise dos dados e criação do prototipo]                        | Concluído|
+| 02     | [Construção do programa ]                           | Em andamento |
 
 ---
 
@@ -53,9 +56,9 @@
 ---
 
 ## 🚀 Próximos Passos
-- Melhorias planejadas após feedback  
-- Ajustes de usabilidade  
-- Expansão de funcionalidades para próximo incremento  
+- Após a analise e feedback do cliente sobre nosso planos esperamos ja começar a criação nonpower Bi 
+- Esperamos que o cliente no informe como ele ira nos dizer como ele prefere no design do sistema
+- Colocar novas ferramentas e informações caso o cliente ache que necessita  
 
 ---
 
