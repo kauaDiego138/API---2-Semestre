@@ -72,4 +72,4 @@ A equipe tem um tempo de resposta de 1 dia para conseguir ajeitar tudo que o cli
 ##  Anexos / Evidências
 - Prints de tela  
 - Fluxos ou protótipos  
-- Vídeo (MVP)  
+- (SLIDE1 2 SEMESTRE API.pptx)
