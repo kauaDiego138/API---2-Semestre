@@ -5,7 +5,7 @@
 
 ---
 
-## 📝 Descrição da Solução
+##  Descrição da Solução
 - Na Sprint 1, será entregue a base inicial do dashboard, com foco em funcionalidades de análse e visualização de informações essenciais para o transporte de cargas perigosas.
 - traremos um prototipo de como imaginamos como os dados serão usado e visualizados.
 - planos para as proximas sprints.
