@@ -1,24 +1,29 @@
-# 📌 MVP - [LOGISAFE]
+# MVP - [LOGISAFE]
 
-## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?  
-- Qual hipótese será validada?  
-- Qual valor será entregue ao usuário final?  
+##  Objetivo do MVP
+-  O objetivo do MVP é disponibilizar um dashboard inicial que permita às empresas transportadoras visualizar rotas de transporte de cargas perigosas registradas no RAPP, identificando os trechos com maior incidência de acidentes e pontos de parada estratégicos. A solução busca validar a utilidade da ferramenta na tomada de decisão logística e na análise de riscos, garantindo uma base para futuras expansões e funcionalidades avançadas
 
 ---
 
 ## 📝 Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
+- Na Sprint 1, será entregue a base inicial do dashboard, com foco em funcionalidades de análse e visualização de informações essenciais para o transporte de cargas perigosas.
+- traremos um prototipo de como imaginamos como os dados serão usado e visualizados.
+- planos para as proximas sprints.
 
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- ** Analistas: breve descrição, necessidades e dores atendidas  
-- ** Organizadores logisticos:breve descrição, necessidades e dores atendidas  
+-  Analistas
+
+Descrição: Profissionais responsáveis por interpretar os dados do transporte de cargas perigosas.
+Necessidades: Ter acesso rápido a indicadores confiáveis, relatórios históricos e análises comparativas.
+Dores Atendidas: Dificuldade em consolidar informações dispersas, analisar grandes volumes de dados e identificar pontos de risco com clareza.
+
+Organizadores Logísticos
+
+Descrição: Gestores e planejadores que coordenam rotas, prazos e estratégias de transporte.
+Necessidades: Visualizar métricas em tempo real, consultar rotas eficientes e seguras, otimizar custos e reduzir atrasos.
+Dores Atendidas: Falta de visibilidade sobre gargalos operacionais, dificuldade na escolha de rotas seguras e pouca previsibilidade sobre riscos de transporte. 
 
 ---
 
