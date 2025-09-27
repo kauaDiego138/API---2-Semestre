@@ -12,7 +12,7 @@
 
 ---
 
-## 👥 Personas / Usuários-Alvo
+##  Personas / Usuários-Alvo
 -  Analistas
 
 Descrição: Profissionais responsáveis por interpretar os dados do transporte de cargas perigosas.
@@ -27,7 +27,7 @@ Dores Atendidas: Falta de visibilidade sobre gargalos operacionais, dificuldade 
 
 ---
 
-## 🔑 User Stories (Backlog do MVP)
+##  User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
 | S1 | Como gestor logístico, quero visualizar as principais métricas de transporte em tempo real para otimizar a tomada de decisão        | Alta       | 5 pontos   |
@@ -38,7 +38,7 @@ Dores Atendidas: Falta de visibilidade sobre gargalos operacionais, dificuldade 
 
 ---
 
-## 📅 Sprint(s) Relacionadas
+##  Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
 | 01     | [Coleta e análise dos dados e criação do prototipo]                        | Concluído|
@@ -46,28 +46,30 @@ Dores Atendidas: Falta de visibilidade sobre gargalos operacionais, dificuldade 
 
 ---
 
-## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+##  Critérios de Aceitação
+- Tempo de resposta da equipe: até 1 dia para atender às solicitações do cliente.
+
+Taxa de uso do sistema: acompanhamento da frequência de acessos e interações.
+
+Produção funcional: o sistema deve entregar a função solicitada pelo cliente dentro do mesmo período de trabalho.
 
 ---
 
-## 📈 Métricas de Validação
+##  Métricas de Validação
 - Número de usuários que testaram o MVP  
 - Feedback qualitativo (positivo/negativo)  
 - Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
 
 ---
 
-## 🚀 Próximos Passos
+##  Próximos Passos
 - Após a analise e feedback do cliente sobre nosso planos esperamos ja começar a criação nonpower Bi 
 - Esperamos que o cliente no informe como ele ira nos dizer como ele prefere no design do sistema
 - Colocar novas ferramentas e informações caso o cliente ache que necessita  
 
 ---
 
-## 📂 Anexos / Evidências
+##  Anexos / Evidências
 - Prints de tela  
 - Fluxos ou protótipos  
 - Vídeo (MVP)  
