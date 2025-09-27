@@ -35,7 +35,7 @@ Projeto Integrador em Logística - 2°Semestre
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|01 |  02/10/2025 | A ser feito | [MVP](https://drive.google.com/drive/folders/1OUhrLPyxvE48ptyuM_L7U_9wmmuBAZso?dmr=1&ec=wgc-drive-globalnav-goto) | 
+|01 |  02/10/2025 | A ser feito | [MVP](https://drive.google.com/drive/folders/1p63GQLEyC4ZcmtHN70UzFgr_AmxgTt_W) | 
 |02|  22/10/2025 | A ser feito|[MVP] | 
 |03| 19/11/2025 | A ser feito|[MVP] | 
 |Feira de Soluções|4/12/2025 | a fazer |[MVP](https://) | 
