@@ -72,4 +72,4 @@ A equipe tem um tempo de resposta de 1 dia para conseguir ajeitar tudo que o cli
 ##  Anexos / Evidências
 - Prints de tela  
 - Fluxos ou protótipos  
-- (SLIDE1 2 SEMESTRE API.pptx)
+- Slides para apresentação da Sprint-1 https://github.com/kauaDiego138/API---2-Semestre/blob/194cfa9954c7c7ff7212b5e35a6e670f276ee932/SLIDE1%202%20SEMESTRE%20API.pptx
