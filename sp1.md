@@ -70,11 +70,10 @@ A equipe tem um tempo de resposta de 1 dia para conseguir ajeitar tudo que o cli
 ---
 
 ##  Anexos / Evidências
-- imagens do prototipo feito pela equipe [text](url)<img width="1318" height="732" alt="image" src="https://github.com/user-attachments/assets/91f0c874-60f1-45d9-94dc-4e21ad3c210e" />
    
 - Slides para apresentação da Sprint-1 https://github.com/kauaDiego138/API---2-Semestre/blob/194cfa9954c7c7ff7212b5e35a6e670f276ee932/SLIDE1%202%20SEMESTRE%20API.pptx
 
  Video do protótipo do projeto: https://drive.google.com/file/d/1uNb5saskaV8Y_cyis9gBR-JZbkMKetjT/view?usp=drivesdk
- <img width="1600" height="720" alt="1759260895490878784373445600021" src="https://github.com/user-attachments/assets/c64c09ac-6572-4710-9f83-eda3fb70f80c" />
+ 
 
  
