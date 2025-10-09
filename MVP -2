@@ -3,7 +3,8 @@
     Objetivo do MVP
 O objetivo do MVP é disponibilizar um dashboard inicial que permita às empresas transportadoras visualizar rotas de transporte de cargas perigosas registradas no RAPP, identificando os trechos com maiores incidências de acidentes e pontos de parada estratégica. A busca por solução validar a utilidade da ferramenta na tomada de decisão logística e na análise de riscos, garantindo uma base para futuras expansões e funcionalidades avançadas  
 
-O objetivo desse segundo mvp é que o grupo possa recompensar os erros cometidos na primeira entrega e poder entregar algo de valor ao cliente de acordo com o novo backlog, um sistema capaz de ajudar no meio logistico do IPEM em monitorar os acidentes e problemas nas movimentações das cargas no meio rodoviario
+O objetivo desse segundo mvp é que o grupo possa recompensar os erros cometidos na primeira entrega e poder entregar algo de valor ao cliente de acordo com o novo backlog, um sistema capaz de ajudar no meio logistico do IPEM 
+em monitorar os acidentes e problemas nas movimentações das cargas no meio rodoviário.
 
 ---
 
@@ -16,10 +17,19 @@ O objetivo desse segundo mvp é que o grupo possa recompensar os erros cometidos
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
+-  Analistas
 
----
+Descrição: Profissionais responsáveis por interpretar os dados do transporte de cargas perigosas.
+Necessidades: Ter acesso rápido a indicadores confiáveis, relatórios históricos e análises comparativas.
+Dores Atendidas: Dificuldade em consolidar informações dispersas, analisar grandes volumes de dados e identificar pontos de risco com clareza.
+
+Organizadores Logísticos
+
+Descrição: Gestores e planejadores que coordenam rotas, prazos e estratégias de transporte.
+Necessidades: Visualizar métricas em tempo real, consultar rotas eficientes e seguras, otimizar custos e reduzir atrasos.
+Dores Atendidas: Falta de visibilidade sobre gargalos operacionais, dificuldade na escolha de rotas seguras e pouca previsibilidade sobre riscos de transporte. 
+
+ ---
 
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
