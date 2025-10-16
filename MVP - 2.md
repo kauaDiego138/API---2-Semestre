@@ -6,7 +6,7 @@ O objetivo do MVP é disponibilizar um dashboard inicial que permita às empresa
 O objetivo desse segundo mvp é que o grupo possa recompensar os erros cometidos na primeira entrega e poder entregar algo de valor ao cliente de acordo com o novo backlog, um sistema capaz de ajudar no meio logistico do IPEM 
 em monitorar os acidentes e problemas nas movimentações das cargas no meio rodoviário.
 
----
+
 
 ## 📝 Descrição da Solução
 > Breve explicação do que será desenvolvido e entregue nesta etapa.  
@@ -14,7 +14,7 @@ em monitorar os acidentes e problemas nas movimentações das cargas no meio rod
 - Limitações conhecidas  
 - Escopo reduzido (somente o essencial para validar a ideia)  
 
----
+
 
 ## 👥 Personas / Usuários-Alvo
 -  Analistas
@@ -29,7 +29,7 @@ Descrição: Gestores e planejadores que coordenam rotas, prazos e estratégias 
 Necessidades: Visualizar métricas em tempo real, consultar rotas eficientes e seguras, otimizar custos e reduzir atrasos.
 Dores Atendidas: Falta de visibilidade sobre gargalos operacionais, dificuldade na escolha de rotas seguras e pouca previsibilidade sobre riscos de transporte. 
 
- ---
+ 
 
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
@@ -43,7 +43,7 @@ Dores Atendidas: Falta de visibilidade sobre gargalos operacionais, dificuldade 
 | SPRINT 2 | Como planejador de transporte, quero visualizar a proximidade dos locais de acidente com pontos de parada de descanso, para avaliar necessidades de infraestrutura. | ALTA |4 pontos
 | SPRINT 2 | Como usuário, quero filtrar dados por região, período e tipo de carga, para realizar análises segmentadas. | ALTA | 4 pontos
 | SPRINT 2 | Como gestor, quero visualizar dados em mapas e gráficos de tendência, para interpretar rapidamente os resultados. | ALTA | 4 pontos
----
+
 
 ##  Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
@@ -51,28 +51,28 @@ Dores Atendidas: Falta de visibilidade sobre gargalos operacionais, dificuldade 
 | 01     | [coleta de dados e limpeza dos mesmos]       | não entregue |
 | 02     | [coleta de dados e limpeza dos mesmos]       | Em andamento |
 | 02     | [criação da base do projeto]                 | em andamento |
----
+
 
 ##  Critérios de Aceitação
 - O MVP deve permitir que o usuário [ação principal]  
 - O sistema deve registrar [evento importante]  
 - Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
 
----
+
 
 ## 📈 Métricas de Validação
 - Número de usuários que testaram o MVP  
 - Feedback qualitativo (positivo/negativo)  
 - Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
 
----
+
 
 ## 🚀 Próximos Passos
 - Melhorias planejadas após feedback  
 - Ajustes de usabilidade  
 - Expansão de funcionalidades para próximo incremento  
 
----
+
 
 ## 📂 Anexos / Evidências
 - video do dados, agora limpos e análisados de forma concreta
