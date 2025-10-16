@@ -68,8 +68,8 @@ Dores Atendidas: Falta de visibilidade sobre gargalos operacionais, dificuldade 
 
 
 ##  Próximos Passos
-- Melhorias planejadas após feedback  
-- Ajustes de usabilidade  
+- Melhorias planejadas após feedback do cliente e do profeesor mentor
+- Ajustes de usabilidade do programa
 - Expansão de funcionalidades para próximo incremento de acordo com o que o cliente exigir 
 
 
