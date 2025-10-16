@@ -1,4 +1,4 @@
- MVP - 2 -  |LOGISAFE|
+ MVP  2  |LOGISAFE|
 
     Objetivo do MVP
 O objetivo do MVP é disponibilizar um dashboard inicial que permita às empresas transportadoras visualizar rotas de transporte de cargas perigosas registradas no RAPP, identificando os trechos com maiores incidências de acidentes e pontos de parada estratégica. A busca por solução validar a utilidade da ferramenta na tomada de decisão logística e na análise de riscos, garantindo uma base para futuras expansões e funcionalidades avançadas  
@@ -8,7 +8,7 @@ em monitorar os acidentes e problemas nas movimentações das cargas no meio rod
 
 
 
-## 📝 Descrição da Solução
+ Descrição da Solução
 > Breve explicação do que será desenvolvido e entregue nesta etapa.  
 - Funcionalidades principais incluídas  
 - Limitações conhecidas  
@@ -16,7 +16,7 @@ em monitorar os acidentes e problemas nas movimentações das cargas no meio rod
 
 
 
-## 👥 Personas / Usuários-Alvo
+ Personas / Usuários-Alvo
 -  Analistas
 
 Descrição: Profissionais responsáveis por interpretar os dados do transporte de cargas perigosas.
@@ -30,8 +30,7 @@ Necessidades: Visualizar métricas em tempo real, consultar rotas eficientes e s
 Dores Atendidas: Falta de visibilidade sobre gargalos operacionais, dificuldade na escolha de rotas seguras e pouca previsibilidade sobre riscos de transporte. 
 
  
-
-## 🔑 User Stories (Backlog do MVP)
+ User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
 | SPRINT 1 | Como gestor logístico, quero visualizar as principais cargas especiais e perigosas movimentadas por estado e nacionalmente, para entender os fluxos e apoiar decisões estratégicas. | CRITICA      | 5 pontos   |
@@ -45,7 +44,7 @@ Dores Atendidas: Falta de visibilidade sobre gargalos operacionais, dificuldade 
 | SPRINT 2 | Como gestor, quero visualizar dados em mapas e gráficos de tendência, para interpretar rapidamente os resultados. | ALTA | 4 pontos
 
 
-##  Sprint(s) Relacionadas
+ Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
 | 01     | [coleta de dados e limpeza dos mesmos]       | não entregue |
@@ -53,14 +52,14 @@ Dores Atendidas: Falta de visibilidade sobre gargalos operacionais, dificuldade 
 | 02     | [criação da base do projeto]                 | em andamento |
 
 
-##  Critérios de Aceitação
+ Critérios de Aceitação
 - O MVP deve permitir que o usuário [ação principal]  
 - O sistema deve registrar [evento importante]  
 - Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
 
 
 
-## 📈 Métricas de Validação
+ Métricas de Validação
 - Número de usuários que testaram o MVP  
 - Feedback qualitativo (positivo/negativo)  
 - Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
