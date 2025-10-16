@@ -18,8 +18,9 @@ Projeto Integrador em Logística - 2°Semestre
 - [ ] Como fiscalizador, quero identificar as principais empresas que movimentam cargas perigosas registradas no RAPP, para monitorar conformidade.
 
 ## Sprint 2
+- [ ] Todos os topicos escritos na sprint 1 do grupo
 - [ ] Como analista de segurança, quero acessar informações sobre localidades com maiores incidências de acidentes viários envolvendo veículos pesados, para propor medidas preventivas.
-- [ ] Como planejador de transporte, quero visualizar a proximidade dos locais de acidente com pontos de parada de descanso, para avaliar necessidades de infraestrutura.
+- [ ] Como planejador de transporte, quero visualizar a proximidade dos locais de acidente, para avaliar necessidades de infraestrutura.
 - [ ] Como usuário, quero filtrar dados por região, período e tipo de carga, para realizar análises segmentadas.
 - [ ] Como gestor, quero visualizar dados em mapas e gráficos de tendência, para interpretar rapidamente os resultados.
       
