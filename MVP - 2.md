@@ -53,7 +53,7 @@ Dores Atendidas: Falta de visibilidade sobre gargalos operacionais, dificuldade 
 
 
 ##  Critérios de Aceitação
-- O MVP deve permitir que o usuário possa visualizar as 5 cargas perigosas mais transpprtadas e as empresas respondaveis, além de mostrar os pontos de partida e entrega que tambem tem mais enviado e recebido no estado de São Paulo.
+- O MVP deve permitir que o usuário possa visualizar as 5 cargas perigosas mais transportadas e as empresas responsaveis, além de mostrar os pontos de partida e entrega, que tambem tem mais enviado e recebido no estado de São Paulo.
 - O sistema deve registrar o peso e quantidade transportada de tal produto e as cidades que mais o receberam.  
 - Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
 
