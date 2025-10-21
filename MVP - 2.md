@@ -1,4 +1,4 @@
- MVP - 2 -  |LOGISAFE|
+ ## MVP - 2 -  |LOGISAFE|
 
  ## Objetivo do MVP
 - O objetivo do MVP é disponibilizar um dashboard inicial que permita às empresas transportadoras visualizar rotas de transporte de cargas perigosas registradas no RAPP, identificando os trechos com maiores incidências de acidentes e pontos de parada estratégica. A busca por solução validar a utilidade da ferramenta na tomada de decisão logística e na análise de riscos, garantindo uma base para futuras expansões e funcionalidades avançadas  
@@ -41,8 +41,7 @@ Dores Atendidas: Falta de visibilidade sobre gargalos operacionais, dificuldade 
 | SPRINT 1 | Como fiscalizador, quero identificar as principais empresas que movimentam cargas perigosas registradas no RAPP, para monitorar conformidade. | CRITICA | 4 pontos
 | SPRINT 2 | Como analista de segurança, quero acessar informações sobre localidades com maiores incidências de acidentes viários envolvendo veículos pesados, para propor medidas preventivas. | ALTA | 4 pontos
 | SPRINT 2 | Como planejador de transporte, quero visualizar a proximidade dos locais de acidente com pontos de parada de descanso, para avaliar necessidades de infraestrutura. | ALTA |4 pontos
-| SPRINT 2 | Como usuário, quero filtrar dados por região, período e tipo de carga, para realizar análises segmentadas. | ALTA | 4 pontos
-| SPRINT 2 | Como gestor, quero visualizar dados em mapas e gráficos de tendência, para interpretar rapidamente os resultados. | ALTA | 4 pontos
+
 
 
 ##  Sprint(s) Relacionadas
