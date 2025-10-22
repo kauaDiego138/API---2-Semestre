@@ -61,7 +61,7 @@ Dores Atendidas: Falta de visibilidade sobre gargalos operacionais, dificuldade 
 
 ##  Métricas de Validação
 - foram exatos 4 menbros que validaram  
-- Feedback qualitativo (positivo/negativo)  
+- Feedback qualitativo: 
 - Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
 
 
@@ -74,5 +74,5 @@ Dores Atendidas: Falta de visibilidade sobre gargalos operacionais, dificuldade 
 
 
 ##  Anexos / Evidências
-- video do dados, agora limpos e análisados de forma concreta
-- link:
+- Canal do grupo no Youtube para postar os video do dados, agora limpos e análisados de forma concreta
+- link:https:(www.youtube.com/channel/UCkAP3SFlDG1T6Agrc8AFyyg)
