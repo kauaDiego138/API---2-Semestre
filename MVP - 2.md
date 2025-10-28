@@ -9,10 +9,10 @@ em monitorar os acidentes e problemas nas movimentações das cargas no meio rod
 
 
 ##  Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
+> Nessa Sprint queremos reparar nossos erros na ultima entrega, e começar o Power BI fazendo com base no feedback do cliente
+- O programa sera capaz de acessar os produtos mais perigosos, locais com mais acidentes, localidades com maior recebimento e entre outros.
+- Limitações conhecidas - Não sabemos se o cliente tera dificuldade no manejamento do sistema ou se tem espectativas muitos altas   
+
 
 
 
@@ -37,10 +37,10 @@ Dores Atendidas: Falta de visibilidade sobre gargalos operacionais, dificuldade 
 | SPRINT 1 | Como gestor logístico, quero visualizar as principais cargas especiais e perigosas movimentadas por estado e nacionalmente, para entender os fluxos e apoiar decisões estratégicas. | CRITICA      | 5 pontos   |
 | SPRINT 1 | Como analista de transporte, quero identificar os principais modais utilizados no transporte de carga perigosa, para avaliar eficiência e riscos. | CRITICA     | 3 pontos   |
 | SPRINT 1 | Como planejador logístico, quero consultar as principais origens e destinos das cargas, para compreender os corredores logísticos críticos.   | CRITICA | 4 pontos
-| SPRINT 1 | Como pesquisador, quero acompanhar a evolução da movimentação de cargas perigosas entre 2018 a 2023, para identificar tendências históricas.  | CRITICA | 4 pontos
+| SPRINT 1 | Como pesquisador, quero acompanhar a evolução da movimentação de cargas perigosas entre 2020 a 2024, para identificar tendências históricas.  | CRITICA | 4 pontos
 | SPRINT 1 | Como fiscalizador, quero identificar as principais empresas que movimentam cargas perigosas registradas no RAPP, para monitorar conformidade. | CRITICA | 4 pontos
 | SPRINT 2 | Como analista de segurança, quero acessar informações sobre localidades com maiores incidências de acidentes viários envolvendo veículos pesados, para propor medidas preventivas. | ALTA | 4 pontos
-| SPRINT 2 | Como planejador de transporte, quero visualizar a proximidade dos locais de acidente com pontos de parada de descanso, para avaliar necessidades de infraestrutura. | ALTA |4 pontos
+| SPRINT 2 | Como planejador de transporte, quero visualizar a proximidade dos locais de acidente. | ALTA |4 pontos
 
 
 
@@ -55,14 +55,13 @@ Dores Atendidas: Falta de visibilidade sobre gargalos operacionais, dificuldade 
 ##  Critérios de Aceitação
 - O MVP deve permitir que o usuário possa visualizar as 5 cargas perigosas mais transportadas e as empresas responsaveis, além de mostrar os pontos de partida e entrega, que tambem tem mais enviado e recebido no estado de São Paulo.
 - O sistema deve registrar o peso e quantidade transportada de tal produto e as cidades que mais o receberam.  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
 
 
 
 ##  Métricas de Validação
 - foram exatos 4 menbros que validaram  
-- Feedback qualitativo: 
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
+- Feedback qualitativo: sistema totalmente operante e com fluidez , organizado de maneira de facil entendimento.
+
 
 
 
@@ -75,4 +74,4 @@ Dores Atendidas: Falta de visibilidade sobre gargalos operacionais, dificuldade 
 
 ##  Anexos / Evidências
 - Canal do grupo no Youtube para postar os video do dados, agora limpos e análisados de forma concreta
-- link:https:(www.youtube.com/channel/UCkAP3SFlDG1T6Agrc8AFyyg)
+- link:https:(https://youtube.com/@api2025-o8h?si=zEz-FMbZC3CLIJnv)
