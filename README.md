@@ -43,6 +43,6 @@ Projeto Integrador em Logística - 2°Semestre
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |01 |  02/10/2025 | entrega incompleta | [MVP](https://github.com/kauaDiego138/API---2-Semestre/blob/2af5b1ecfbc0f024fcd6da4fe0bffd13d531ea05/sp1.md)| 
-|02|  30/10/2025 | A ser feito|[MVP](https://github.com/kauaDiego138/API---2-Semestre/blob/69b6330f113e76fdd1a2a616c3e63d960c7454d2/MVP%20-%202.md) | 
+|02|  30/10/2025 | A ser feito|[MVP](https://github.com/kauaDiego138/API---2-Semestre/blob/9c1d2971dcc3ac83790adf63ed9f8274f90b91e6/MVP%20-%202.md) | 
 |03| 26/11/2025 | A ser feito|[MVP | 
 |Feira de Soluções|4/12/2025 | a fazer |[MVP) | 
