@@ -9,6 +9,11 @@ Projeto Integrador em Logística - 2°Semestre
 | Team Member |   Daniel Júnior Soares de Oliveira     | 
 | Team Member |   Julio Eduardo Bustamante Mancisidor         
 | Team Member |   Lucas Daniel da Silva Faria         | 
+## Objetivos do projeto 
+
+
+
+
 
 ## Sprint 1
 - [ ] Como gestor logístico, quero visualizar as principais cargas especiais e perigosas movimentadas por estado e nacionalmente, para entender os fluxos e apoiar decisões estratégicas.
