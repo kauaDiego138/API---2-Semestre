@@ -8,8 +8,8 @@ em monitorar os acidentes e problemas nas movimentações das cargas no meio rod
 
 
 
-##  Descrição da Solução
-> Nessa Sprint queremos reparar nossos erros na ultima entrega, e começar o Power BI fazendo com base no feedback do cliente
+##  Descrição da Solução 
+- Nessa Sprint queremos reparar nossos erros na ultima entrega, e começar o Power BI fazendo com base no feedback do cliente
 - O programa sera capaz de acessar os produtos mais perigosos, locais com mais acidentes, localidades com maior recebimento e entre outros.
 - Limitações conhecidas - Não sabemos se o cliente tera dificuldade no manejamento do sistema ou se tem espectativas muitos altas   
 
