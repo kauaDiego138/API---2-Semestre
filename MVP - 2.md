@@ -59,7 +59,7 @@ Dores Atendidas: Falta de visibilidade sobre gargalos operacionais, dificuldade 
 
 
 ##  Métricas de Validação
-- foram exatos 4 menbros que validaram  
+- foram exatos 4 membros que validaram  
 - Feedback qualitativo: sistema totalmente operante e com fluidez , organizado de maneira de facil entendimento.
 
 
