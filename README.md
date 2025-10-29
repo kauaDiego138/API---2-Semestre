@@ -9,11 +9,9 @@ Projeto Integrador em Logística - 2°Semestre
 | Team Member |   Daniel Júnior Soares de Oliveira     | 
 | Team Member |   Julio Eduardo Bustamante Mancisidor         
 | Team Member |   Lucas Daniel da Silva Faria         | 
+
 ## Objetivos do projeto 
-
-
-
-
+- Objetivo proposto para o trabalho é a criança de um programa capaz de mostrar as informações de cargas perigosas transportadas no Brasil focado no modal rodoviário. mostrando as cargas mais transportadas e locais onde mais são encaminhadas certos tipos de cargas, além de mostrar rotas de transporte onde mais acontecem acidentes e suas causas.
 
 ## Sprint 1
 - [ ] Como gestor logístico, quero visualizar as principais cargas especiais e perigosas movimentadas por estado e nacionalmente, para entender os fluxos e apoiar decisões estratégicas.
@@ -48,6 +46,6 @@ Projeto Integrador em Logística - 2°Semestre
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |01 |  02/10/2025 | entrega incompleta | [MVP](https://github.com/kauaDiego138/API---2-Semestre/blob/2af5b1ecfbc0f024fcd6da4fe0bffd13d531ea05/sp1.md)| 
-|02|  30/10/2025 | A ser feito|[MVP](https://github.com/kauaDiego138/API---2-Semestre/blob/9c1d2971dcc3ac83790adf63ed9f8274f90b91e6/MVP%20-%202.md) | 
+|02|  30/10/2025 | A ser feito|[MVP](https://github.com/kauaDiego138/API---2-Semestre/blob/90815728f09458f99debc91ed681f0edd146f42b/MVP%20-%202.md) | 
 |03| 26/11/2025 | A ser feito|[MVP | 
 |Feira de Soluções|4/12/2025 | a fazer |[MVP) | 
