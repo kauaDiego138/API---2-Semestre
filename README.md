@@ -11,7 +11,7 @@ Projeto Integrador em Logística - 2°Semestre
 | Team Member |   Lucas Daniel da Silva Faria         | 
 
 ## Objetivos do projeto 
-- Objetivo proposto para o trabalho é a criança de um programa capaz de mostrar as informações de cargas perigosas transportadas no Brasil focado no modal rodoviário. mostrando as cargas mais transportadas e locais onde mais são encaminhadas certos tipos de cargas, além de mostrar rotas de transporte onde mais acontecem acidentes e suas causas.
+- Objetivo proposto para o trabalho é a crianção de um programa capaz de mostrar as informações de cargas perigosas transportadas no Brasil focado no modal rodoviário. mostrando as cargas mais transportadas e locais onde mais são encaminhadas certos tipos de cargas, além de mostrar rotas de transporte onde mais acontecem acidentes e suas causas.
 
 ## Sprint 1
 - [ ] Como gestor logístico, quero visualizar as principais cargas especiais e perigosas movimentadas por estado e nacionalmente, para entender os fluxos e apoiar decisões estratégicas.
