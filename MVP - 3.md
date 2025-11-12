@@ -31,13 +31,13 @@ Dores Atendidas: Falta de visibilidade sobre gargalos operacionais, dificuldade 
 ##  User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| SPRINT 1 | Como gestor logístico, quero visualizar as principais cargas especiais e perigosas movimentadas por estado e nacionalmente, para entender os fluxos e apoiar decisões estratégicas. | CRITICA      | 5 pontos   |
-| SPRINT 1 | Como analista de transporte, quero identificar os principais modais utilizados no transporte de carga perigosa, para avaliar eficiência e riscos. | CRITICA     | 3 pontos   |
-| SPRINT 1 | Como planejador logístico, quero consultar as principais origens e destinos das cargas, para compreender os corredores logísticos críticos.   | CRITICA | 4 pontos
-| SPRINT 1 | Como pesquisador, quero acompanhar a evolução da movimentação de cargas perigosas entre 2020 a 2024, para identificar tendências históricas.  | CRITICA | 4 pontos
-| SPRINT 1 | Como fiscalizador, quero identificar as principais empresas que movimentam cargas perigosas registradas no RAPP, para monitorar conformidade. | CRITICA | 4 pontos
-| SPRINT 2 | Como analista de segurança, quero acessar informações sobre localidades com maiores incidências de acidentes viários envolvendo veículos pesados, para propor medidas preventivas. | ALTA | 4 pontos
-| SPRINT 2 | Como planejador de transporte, quero visualizar a proximidade dos locais de acidente. | ALTA |4 pontos
+|  Sprint 3 |Como usuário, quero filtrar dados por estado, período e tipo de carga, para realizar análises segmentadas | ALTA | 5 |
+|  Sprint 3 |Como gestor, quero visualizar dados em mapas e gráficos de tendência, para interpretar rapidamente os resultados | ALTA | 5 |
+|  Sprint 3 |Como usuário, quero que a interface do dashboard seja intuitiva e responsiva, para acessar informações em qualquer dispositivo com poucos cliques | ALTA | 5 |
+|  Sprint 3 |Como desenvolvedor, quero limpar e normalizar a base de dados do IBAMA no Google Colab, para garantir consistência antes da análise | ALTA | 5 |
+|  Sprint 3 |Como desenvolvedor, quero implementar o back-end em Python, para processar e organizar os dados | ALTA | 5 |
+|  Sprint 3 |Como analista, quero que o front-end seja desenvolvido em Power BI, para explorar os dados de forma visual e interativa | ALTA | 5 |
+|  Sprint 3 |Como equipe de TI, quero versionar os artistas do projeto no GitHub, para garantir controle e rastreabilidade do desenvolvimento | ALTA | 5 |
 
 
 
@@ -51,7 +51,7 @@ Dores Atendidas: Falta de visibilidade sobre gargalos operacionais, dificuldade 
 
 ##  Critérios de Aceitação
 - O MVP deve permitir que o usuário possa visualizar as 5 cargas perigosas mais transportadas e as empresas responsaveis, além de mostrar os pontos de partida e entrega, que tambem tem mais enviado e recebido no estado de São Paulo.
-- O sistema deve registrar o peso e quantidade transportada de tal produto e as cidades que mais o receberam.  
+- O sistema deve registrar o peso e quantidade transportada de tal produto e as cidades que mais o receberam, claro que sendo bem mais detalhado quando for utilizado no estado de São Paulo.  
 
 
 
@@ -63,9 +63,7 @@ Dores Atendidas: Falta de visibilidade sobre gargalos operacionais, dificuldade 
 
 
 ##  Próximos Passos
-- Melhorias planejadas após feedback do cliente e do profeesor mentor
-- Ajustes de usabilidade do programa
-- Expansão de funcionalidades para próximo incremento de acordo com o que o cliente exigir 
+- Não havera outras modificações após a Sprint 3 por se tratar de ser a entrega final.
 
 
 
