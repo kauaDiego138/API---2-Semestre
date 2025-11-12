@@ -32,11 +32,11 @@ Projeto Integrador em Logística - 2°Semestre
 
       
 ## Sprint 3
-- [ ] Como usuário, quero filtrar dados por região, período e tipo de carga, para realizar análises segmentadas.
+- [ ] Como usuário, quero filtrar dados por estado, período e tipo de carga, para realizar análises segmentadas.
 - [ ] Como gestor, quero visualizar dados em mapas e gráficos de tendência, para interpretar rapidamente os resultados.
 - [ ] Como usuário, quero que a interface do dashboard seja intuitiva e responsiva, para acessar informações em qualquer dispositivo com poucos cliques.
 - [ ] Como desenvolvedor, quero limpar e normalizar a base de dados do IBAMA no Google Colab, para garantir consistência antes da análise.
-- [ ] Como desenvolvedor, quero implementar o back-end em Python 3+, para processar e organizar os dados.
+- [ ] Como desenvolvedor, quero implementar o back-end em Python, para processar e organizar os dados.
 - [ ] Como analista, quero que o front-end seja desenvolvido em Power BI, para explorar os dados de forma visual e interativa.
 - [ ] Como equipe de TI, quero versionar os artefatos do projeto no GitHub, para garantir controle e rastreabilidade do desenvolvimento.
 
