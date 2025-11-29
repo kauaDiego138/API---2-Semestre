@@ -69,4 +69,4 @@ Dores Atendidas: Falta de visibilidade sobre gargalos operacionais, dificuldade 
 
 ##  Anexos / Evidências
 - Canal do grupo no Youtube para postar os video do projeto
-- link:https:(https://youtube.com/@api2025-o8h?si=zEz-FMbZC3CLIJnv)
+- link:https:(https://youtu.be/Ecxzr8GUC8M?feature=shared)
